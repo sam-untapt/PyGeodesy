@@ -1,4 +1,4 @@
-PyGeodesy
+PyGeodesy.
 
 A Python implementation of geodesy tools for various ellipsoidal and
 spherical earth models using trigonometric and vector-based methods.
